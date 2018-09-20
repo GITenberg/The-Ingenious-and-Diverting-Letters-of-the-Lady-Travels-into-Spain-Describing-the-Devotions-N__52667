@@ -1,0 +1,35 @@
+_repo: The-Ingenious-and-Diverting-Letters-of-the-Lady-Travels-into-Spain-Describing-the-Devotions-N__52667
+_version: 0.0.1
+alternative_title: Relation de voyage d'Espagne. English
+creator:
+  author:
+    agent_name: Aulnoy, Madame d' (Marie-Catherine)
+    aliases:
+    - Berneville, Marie-Catherine Jumelle de, comtesse d'Aulnoy
+    - d'Aulnoy, Marie-Catherine
+    - Aulnoy, Marie-Catherine Le Jumel de Barneville, baronne d'
+    birthdate: 1650
+    deathdate: 1705
+    gutenberg_agent_id: '7974'
+    url: http://www.gutenberg.org/2009/agents/7974
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Madame_d%27Aulnoy
+    - http://fr.wikipedia.org/wiki/Marie-Catherine_d%27Aulnoy
+description: ''
+gutenberg_issued: '2016-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52667'
+  lccn: '00000220'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Description and travel'
+- !lcc 'DP'
+- GITenberg
+title: "The Ingenious and Diverting Letters of the Lady ---- Travels into Spain\r\n\
+  Describing the Devotions, Nunneries, Humours, Customs, Laws, Militia, Trade, Diet\
+  \ and Recreations of That People"
+url: http://www.gutenberg.org/ebooks/52667
