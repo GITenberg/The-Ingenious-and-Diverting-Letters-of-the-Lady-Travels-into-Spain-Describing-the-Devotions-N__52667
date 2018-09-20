@@ -1,6 +1,9 @@
 _repo: The-Ingenious-and-Diverting-Letters-of-the-Lady-Travels-into-Spain-Describing-the-Devotions-N__52667
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Relation de voyage d'Espagne. English
+covers:
+- cover_type: archival
+  image_path: 52667-h/images/cover.jpg
 creator:
   author:
     agent_name: Aulnoy, Madame d' (Marie-Catherine)
@@ -16,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Madame_d%27Aulnoy
     - http://fr.wikipedia.org/wiki/Marie-Catherine_d%27Aulnoy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52667#The-Ingenious-and-Diverting-Letters-of-the-Lady-Travels-into-Spain-Describing-the-Devotions-N_
 gutenberg_issued: '2016-07-29'
 gutenberg_type: Text
 identifiers:
